@@ -1,1 +1,1 @@
-window.location.href = 'https://pornhub.com';
+alert('hak')
